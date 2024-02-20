@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.arrow.flight.spark.FlightBatchTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.584 s -- in org.apache.arrow.flight.spark.FlightBatchTest

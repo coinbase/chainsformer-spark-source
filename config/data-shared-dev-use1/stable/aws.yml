@@ -1,0 +1,5 @@
+assets:
+  - zip: /app/assets.zip
+    bucket: pynest-pex-data-shared-dev-use1
+    key: flight-spark-source/stable/
+    cache_control: no-store

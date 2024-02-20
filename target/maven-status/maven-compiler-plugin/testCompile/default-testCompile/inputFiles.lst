@@ -1,0 +1,4 @@
+/Users/edwinchen/workplace/flight-spark-source-2/src/test/java/org/apache/arrow/flight/spark/TestConnector.java
+/Users/edwinchen/workplace/flight-spark-source-2/src/test/java/org/apache/arrow/flight/spark/datasource/BatchQueryTest.java
+/Users/edwinchen/workplace/flight-spark-source-2/src/test/java/org/apache/arrow/flight/spark/datasource/StreamQueryTest.java
+/Users/edwinchen/workplace/flight-spark-source-2/src/test/java/org/apache/arrow/flight/spark/FlightBatchTest.java

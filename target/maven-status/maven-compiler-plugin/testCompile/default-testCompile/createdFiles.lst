@@ -1,0 +1,7 @@
+org/apache/arrow/flight/spark/TestConnector$TestProducer.class
+org/apache/arrow/flight/spark/datasource/BatchQueryTest.class
+org/apache/arrow/flight/spark/TestConnector.class
+org/apache/arrow/flight/spark/TestConnector$SizeConsumer.class
+org/apache/arrow/flight/spark/TestConnector$1.class
+org/apache/arrow/flight/spark/FlightBatchTest.class
+org/apache/arrow/flight/spark/datasource/StreamQueryTest.class
