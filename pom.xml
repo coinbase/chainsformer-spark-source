@@ -27,7 +27,7 @@
 
   <properties>
     <arrow.version>9.0.0</arrow.version>
-    <spark.version>3.2.3</spark.version>
+    <spark.version>3.3.3</spark.version>
     <dep.slf4j.version>1.7.36</dep.slf4j.version>
     <revision>SNAPSHOT</revision>
   </properties>
